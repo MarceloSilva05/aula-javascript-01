@@ -1,5 +1,5 @@
 //2
-/*
+
 //1)
 var nome = "Marcelo";
 console.log(nome);
@@ -18,12 +18,5 @@ const cpf=12345678901;
 console.log(cpf);
 
 const dataNascimento=1997;
-console.log(dataNascimento);*/
+console.log(dataNascimento);
 
-
-var x;
-if(x>=1){
-    x=+5
-
-}
-console.log(x)
